@@ -23,4 +23,4 @@ For more info about my hackathon projects click [here](https://devpost.com/rpeng
 I am currently working on building a [crypto trading web appilcation](https://github.com/rpeng35/CryptoVisual) using Python, Javascript, HTML, CSS, and ta-lib/backtrader for analysis purposes. In the end, I hope to get a trading bot that does the trading for me! 
 
 Currently looking for a summer internship opportuity☀️ (2021), feel free to reach me at:
-📫: ryan8831@gmail.com
+📫 ryan8831@gmail.com

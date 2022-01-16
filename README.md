@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am currently a second year student at UBC pursuing my Bachelor's of Science (Mathematics/Computer Science).
+I am currently a third year student at UBC pursuing my Bachelor's of Science (Mathematics).
 
 I've attended several hackathons and gained a lot of technical skills and experience through these projects. I've worked on hardware projects like [haptic feedback gloves](https://github.com/jdesai840/SensiGlove) and [EchoSense](https://devpost.com/software/echosense) which enables user to gain the ability to use echolocation! 
 For more info about my hackathon projects click [here](https://devpost.com/rpeng35)

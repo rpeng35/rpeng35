@@ -15,10 +15,5 @@ Here are some ideas to get you started:
 -->
 
 
-I am currently a fourth year student at UBC pursuing my Bachelor's of Science (Mathematics/Data Science).
+I am currently a recent graduate from UBC : Bachelor's of Science (Mathematics/Data Science).
 
-I've attended several hackathons and gained a lot of technical skills and experience through these projects. I've worked on hardware projects like [haptic feedback gloves](https://github.com/jdesai840/SensiGlove) and [EchoSense](https://devpost.com/software/echosense) which enables user to gain the ability to use echolocation! 
-For more info about my hackathon projects click [here](https://devpost.com/rpeng35)
-
-Currently looking for a internship opportuity, feel free to reach me at:
-📫 ryan8831@gmail.com

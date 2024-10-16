@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 
-I am currently a recent graduate from UBC : Bachelor's of Science (Mathematics/Data Science).
+I am a recent graduate from UBC : Bachelor's of Science (Mathematics/Data Science).
 
